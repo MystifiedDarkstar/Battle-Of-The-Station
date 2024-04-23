@@ -1,0 +1,28 @@
+Battle of the stations.
+
+It is reccomended to launch the game and fullscreen the client window for the best experience.
+
+Objective of the game:
+
+The objective of this game is to defeat your opponents battlestation, this is a turned based card game in which you can play different ships to defeat enemy ships or the battlestation. Each player will take their turn and can do the following actions during each turn; Put cards into play, discard cards if hand is full, attack another player's card or station. These turns will repeat until 1 player defeats the opposing station.
+
+During each turn you can:
+
+> You are limited to 2 actions per turn, these are used up when playing cards or discarding cards.
+> You are limited to 10 fuel per turn, this is used up when attacking other players ship's or station.
+
+> You can play cards (Maximum of 3 cards in play at any time per player), each card put into play uses 1 action.
+> You can discard cards to create more room in your hand (hand is capped to 7 cards.), each card discarded uses 1 action.
+> You can attack other player ships or station, this will use fuel, the amount of fuel is different depending on the attack used.
+
+Commands needed for the game:
+
+> "commands" - shows all available commands for the game.
+> "view_hand" - shows all cards in your current hand.
+> "view_card" - prompts you for a specific card that you wish to view.
+> "view_battle" - views your cards in play.
+> "play_card" - prompts you for a specific card that you wish to put into play.
+> "discard" - will prompt you for a specific card to discard.
+> "attack" - will prompt for information for you to attack another player or their station.
+> "endturn" - ends your turn, passes play onto the computer player.
+> "quit" - quits the entire game and ends the program
